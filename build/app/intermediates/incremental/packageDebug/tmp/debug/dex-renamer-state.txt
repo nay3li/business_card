@@ -1,0 +1,4 @@
+#Tue Sep 22 22:37:32 PDT 2020
+base.0=/Users/NayeliSantamaria/AndroidStudioProjects/mi_card_flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
