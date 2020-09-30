@@ -1,4 +1,4 @@
-#Thu Sep 24 17:59:31 PDT 2020
+#Mon Sep 28 17:37:48 PDT 2020
 base.0=/Users/NayeliSantamaria/Documents/GitHub/business_card/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
